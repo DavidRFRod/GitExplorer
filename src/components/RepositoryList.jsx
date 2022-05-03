@@ -9,8 +9,7 @@ export function RepositoryList(){
                 <RepositoryItem title="Repository One" />
                 <RepositoryItem title="Repository Two" />
                 <RepositoryItem title="Repository One" />
-                <RepositoryItem title="Repository One" />
-                <RepositoryItem title="Repository One" />
+            
             </ul>
         </section>
     )
